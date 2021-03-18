@@ -3,6 +3,10 @@
 ## Description
 Simulate a network built by the Hodgkin-Huxley model.
 
+The number of neurons, the connection　probability, the presence or absence of plasticity, and the intensity of the perturbation can all be varied in the simulation.
+
+Basically, it plots the average synchronization rate between the connection probability and the firing time.
+
 ## Requirements
 * Numpy
 * Matplotlib
