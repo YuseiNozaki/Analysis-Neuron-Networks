@@ -40,5 +40,8 @@ Feel free to change the contents of the code as needed.
 └── single_neuron.py
 </pre>
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ## Works Cited
 * R. R. Borges, F. S. Borges, E. L. Lameu, A. M. Batista, K. C. Iarosz, I. L. Caldas, R. L. Viana and M. A. F. Sanjuan, Commun. Nonlinear Sci. Numer. Simul. 34, 12-22 (2016).
